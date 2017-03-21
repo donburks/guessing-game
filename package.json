@@ -1,0 +1,27 @@
+{
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "Rebecca's next assignment from Don. A guessing game with some logic built in.",
+  "main": "index.js",
+  "dependencies": {
+    "vorpal": "^1.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donburks/guessing-game.git"
+  },
+  "keywords": [
+    "guessing",
+    "game"
+  ],
+  "author": "Don Burks <don@donburks.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donburks/guessing-game/issues"
+  },
+  "homepage": "https://github.com/donburks/guessing-game#readme"
+}
